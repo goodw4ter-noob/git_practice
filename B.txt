@@ -1,7 +1,1 @@
-B
-B
-B
-Some text
-Some text
-Some text
 function
