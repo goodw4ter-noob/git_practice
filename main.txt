@@ -2,7 +2,6 @@ main
 main
 main
 CONFIG
-CONFIG
-CONFIG
-CONFIG
-CONFIG
+NEW
+NEW
+NEW
