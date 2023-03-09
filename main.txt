@@ -1,7 +1,1 @@
 main
-main
-2
-CONFIG
-NEW
-NEW
-NEW
