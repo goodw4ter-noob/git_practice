@@ -1,5 +1,9 @@
+function
 Aqwe
 newMain
 1
 2
 4
+function2
+function3
+function4
