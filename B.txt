@@ -1,5 +1,4 @@
 B
 newMain
 1
-2
-4
+reset
